@@ -31,6 +31,7 @@ class Mercadito
                 Console.WriteLine("2. Medio");
                 Console.WriteLine("3. Grande");
                 string T_bebida = Console.ReadLine();
+
                 if (T_bebida == "1")
                 {
                     Console.WriteLine("Ingrese la cantidad de Coca cola Normal acomprar");
